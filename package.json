@@ -1,0 +1,19 @@
+{
+  "name": "ema21",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "yahoo-finance2": "^2.13.3"
+  }
+}
+
