@@ -1,0 +1,28 @@
+{
+    "A1CAP": {
+        "price": 6.75,
+        "state": ">",
+        "triggered": true
+    },
+    "A1YEN": {
+        "price": 26.75,
+        "state": ">",
+        "triggered": true
+    },
+    "OYLUM": {
+        "price": 8.85,
+        "state": "<",
+        "triggered": true
+    },
+    "KAPLM": {
+        "price": 204,
+        
+        "state": "<",
+        "triggered": false
+    },
+    "AKFIS": {
+        "price": 23.7,
+        "state": ">",
+        "triggered": false
+    }
+}

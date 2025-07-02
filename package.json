@@ -1,0 +1,36 @@
+{
+  "name": "hisse-alarm",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package": "electron-builder"
+  },
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "puppeteer": "^24.10.2",
+    "yahoo-finance2": "^2.13.3"
+  },
+  "devDependencies": {
+    "electron": "^28.1.0",
+    "electron-builder": "^24.6.0"
+  },
+  "build": {
+    "appId": "com.senin.adin.hissealarm",
+    "productName": "HisseAlarm",
+    "files": [
+      "**/*",
+      "!node_modules/*/{CHANGELOG.md,README.md,README,readme.md,readme}",
+      "!node_modules/*/test{,s}/**",
+      "!**/*.map"
+    ],
+    "extraFiles": [
+      "alarms.json",
+      "tickers.json"
+    ],
+    "win": {
+      "target": "nsis"
+    },
+    "type": "module"
+  }
+}
