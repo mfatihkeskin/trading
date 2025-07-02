@@ -1,0 +1,226 @@
+{
+    "18.06.2025": {
+        "ADGYO": {
+            "enter": 32.1,
+            "scalp_stop": 31.7,
+            "swing_stop": 31.3,
+            "target" : 33,
+            "k/z" : -1.15,
+            "isActive" : false
+        },
+        "ATSYH": {
+            "enter": 66,
+            "scalp_stop": 63,
+            "swing_stop": 60,
+            "target" : 67.27,
+            "k/z" : 1.9,
+            "isActive" : false
+        },
+        "CRDFA": {
+            "enter": 11.42,
+            "scalp_stop": 11.18,
+            "swing_stop": 10.95,
+            "target" : 11.97,
+            "k/z" : -10,
+            "isActive" : false
+        },
+        "FORTE": {
+            "enter": 69.3,
+            "scalp_stop": 68.17,
+            "swing_stop": 67.08,
+            "target" : 73.1,
+            "k/z" : 0,
+            "isActive" : true
+        },
+        "KIMMR": {
+            "enter": 11.86,
+            "scalp_stop": 11.64,
+            "swing_stop": 11.42,
+            "target" : 12.23,
+            "k/z" : -1.58,
+            "isActive" : false
+        },
+        "KZBGY": {
+            "enter": 11.1,
+            "scalp_stop": 10.86,
+            "swing_stop": 10.61,
+            "target" : 11.91,
+            "k/z" : -1.79,
+            "isActive" : false
+        },
+        "PENTA": {
+            "enter": 13.17,
+            "scalp_stop": 12.77,
+            "swing_stop": 12.37,
+            "target" : 14.48,
+            "k/z" : -6.07,
+            "isActive" : false
+        }
+    },
+    "19.06.2025": {
+        "AYGAZ": {
+            "enter": 132,
+            "scalp_stop": 130.88,
+            "swing_stop": 128.7,
+            "target" : 134.6,
+            "k/z" : 1.6,
+            "isActive" : false
+        },
+        "CEMAS": {
+            "enter": 9.42,
+            "scalp_stop": 9.16,
+            "swing_stop": 8.89,
+            "target" : 10.05,
+            "k/z" : -2.2,
+            "isActive" : false
+        },
+        "GARFA": {
+            "enter": 23.2,
+            "scalp_stop": 22.63,
+            "swing_stop": 20.06,
+            "target" : 25.55,
+            "k/z" : 10,
+            "isActive" : false
+        },
+        "GENIL": {
+            "enter": 151.9,
+            "scalp_stop": 149.35,
+            "swing_stop": 146.8,
+            "target" : 152,
+            "k/z" : 0,
+            "isActive" : false
+        },
+        "ISGSY": {
+            "enter": 37.36,
+            "scalp_stop": 35.18,
+            "swing_stop": 33,
+            "target" : 37.6,
+            "k/z" : 0,
+            "isActive" : true
+        },
+        "KLRHO": {
+            "enter": 67.3,
+            "scalp_stop": 66.23,
+            "swing_stop": 65.15,
+            "target" : 73.25,
+            "k/z" : 8.84,
+            "isActive" : false
+        },
+        "LIDER": {
+            "enter": 233.2,
+            "scalp_stop": 232,
+            "swing_stop": 230.8,
+            "target" : 239.4,
+            "k/z" : 2.7,
+            "isActive" : false
+        },
+        "TNZTP": {
+            "enter": 35,
+            "scalp_stop": 34.25,
+            "swing_stop": 33.52,
+            "target" : 38.48,
+            "k/z" : 0,
+            "isActive" : true
+        },
+        "ULUSE": {
+            "enter": 155.3,
+            "scalp_stop": 145.35,
+            "swing_stop": 135.4,
+            "target" : 172,
+            "k/z" : 0,
+            "isActive" : true
+        },
+        "VBTYZ": {
+            "enter": 20.52,
+            "scalp_stop": 20.28,
+            "swing_stop": 20.04,
+            "target" : 21.32,
+            "k/z" : -2.63,
+            "isActive" : false
+        }
+    },
+    "20.06.2025": {
+        "BMSCH": {
+            "enter": 13.13,
+            "scalp_stop": 12.51,
+            "swing_stop": 11.9,
+            "target" : 13.64,
+            "k/z" : 3.85,
+            "isActive" : false
+        },
+        "RODRG": {
+            "enter": 16.2,
+            "scalp_stop": 15.71,
+            "swing_stop": 15.22,
+            "target" : 17.45,
+            "k/z" : 0,
+            "isActive" : true
+        },
+        "ORMA": {
+            "enter": 153.7,
+            "scalp_stop": 148.05,
+            "swing_stop": 142.4,
+            "target" : 156.55,
+            "k/z" : 0,
+            "isActive" : true
+        }
+    },
+    "23.06.2025": {
+        "DERHL": {
+            "enter": 29.08,
+            "scalp_stop": 26.45,
+            "swing_stop": 23.82,
+            "target" : 44.78,
+            "k/z" : 0,
+            "isActive" : true
+        },
+        "MAKIM": {
+            "enter": 19.72,
+            "scalp_stop": 19.36,
+            "swing_stop": 19,
+            "target" : 20,
+            "k/z" : 1.45,
+            "isActive" : false
+        },
+        "YKSLN": {
+            "enter": 4.66,
+            "scalp_stop": 4.57,
+            "swing_stop": 4.48,
+            "target" : 5.03,
+            "k/z" : 0,
+            "isActive" : true
+        },
+        "GLBMD": {
+            "enter": 10.10,
+            "scalp_stop": 9.91,
+            "swing_stop": 9.73,
+            "target" : 10.38,
+            "k/z" : 0,
+            "isActive" : true
+        },
+        "OYAYO": {
+            "enter": 24.10,
+            "scalp_stop": 23.94,
+            "swing_stop": 23.78,
+            "target" : 25.18,
+            "k/z" : -1.51,
+            "isActive" : false
+        },
+        "TGSAS": {
+            "enter": 84.4,
+            "scalp_stop": 82.2,
+            "swing_stop": 80,
+            "target" : 57.22,
+            "k/z" : 0,
+            "isActive" : true
+        },
+        "KERVN": {
+            "enter": 1.89,
+            "scalp_stop": 1.84,
+            "swing_stop": 1.84,
+            "target" : 1.9,
+            "k/z" : 0,
+            "isActive" : true
+        }
+    }
+}
